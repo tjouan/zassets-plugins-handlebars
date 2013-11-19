@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
 
   s.files       = `git ls-files`.split "\n"
 
-  s.add_dependency 'handlebars_assets', '~> 0.14.1'
+  s.add_dependency 'handlebars_assets', '~> 0.15'
 end
