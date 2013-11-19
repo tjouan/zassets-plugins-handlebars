@@ -7,6 +7,9 @@ module ZAssets
         end
 
         def register
+          require 'handlebars_assets'
+
+          @config[:paths] << HandlebarsAssets.path
         end
       end
     end
