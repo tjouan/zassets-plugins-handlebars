@@ -14,5 +14,5 @@ Gem::Specification.new do |s|
   s.files       = `git ls-files lib`.split $/
   s.extra_rdoc_files = %w[README.md]
 
-  s.add_dependency 'handlebars_assets', '0.15'
+  s.add_dependency 'handlebars_assets', '0.20.1'
 end
