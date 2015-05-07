@@ -34,6 +34,6 @@ plugins:
 
 
 
-[zassets]: https://rubygems.org/gems/zassets
-[badge-version-img]:  https://img.shields.io/gem/v/producer-core.svg?style=flat-square
-[badge-version-uri]:  https://rubygems.org/gems/producer-core
+[zassets]:            https://rubygems.org/gems/zassets
+[badge-version-img]:  https://img.shields.io/gem/v/zassets-plugins-handlebars.svg?style=flat-square
+[badge-version-uri]:  https://rubygems.org/gems/zassets-plugins-handlebars
